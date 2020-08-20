@@ -13,3 +13,12 @@
 	* current goals
 * Be able to mark a customer as inactive
 * Be able to delete a customer 
+
+## Stretch Goals:
+* Authentication
+
+## Technologies Used:
+* React.js
+* JSX
+* Node.js
+* MySQL
