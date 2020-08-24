@@ -18,7 +18,8 @@
 * Authentication
 
 ## Technologies Used:
-* React.js
-* JSX
-* Node.js
-* MySQL
+* MERN
+	* MongoDB
+	* Express
+	* React
+	* Node
