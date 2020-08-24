@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/brookelkennison/client-manager#readme",
   "dependencies": {
+    "express": "^4.17.1",
     "react": "^16.8.4",
     "react-dom": "^16.8.4"
   },

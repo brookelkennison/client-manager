@@ -23,3 +23,8 @@
 	* Express
 	* React
 	* Node
+
+## Run Express:
+
+node routes/index.js
+
